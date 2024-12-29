@@ -1,0 +1,6 @@
+Step 1: Download the file.
+Download and open the Microsoft Excel workbook Monthly sales report.xlsx. The workbook contains only one worksheet called Data_Exercise_File. 
+
+The sheet outlines the sales data for A2Mountain bike frames during the month of April. This data includes the number of units sold, the price of each unit, and the total US dollar amount accrued in sales each day.
+
+You need to calculate further sales data by creating formulas in the cell range C35 to C40. The cell range C35:C40 is set to the general number format. You can check this in the Number section of the Home ribbon.
